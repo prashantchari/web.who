@@ -10,6 +10,12 @@ Who is a phone validation by SMS service. We provide an easy way to perform phon
 - No need to store and track phone number / challenge codes at the service.
 - Simple intuitive way to get a phone number validated within the context of a single request to the service.
 
+## Privacy
+
+- We do not store any information related to phone numbers beyond the time taken for the request to be verified/expire.
+
 ## Interested ?
 
 Reach out at support[at]afila.fyi
+
+&copy; Afila | 2024
