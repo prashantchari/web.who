@@ -1,8 +1,8 @@
-# web.who
+# Who ?
 
 ## Overview
 
-The "Who" service in Afila provides an easy way to perform phone number validations using SMS without any of the hassles involved in building such a functionality.
+Who is a phone validation by SMS service. We provide an easy way to perform phone number validations using SMS without any of the hassles involved in building such a functionality.
 
 ## How's this different from the others ? 
 
@@ -12,4 +12,4 @@ The "Who" service in Afila provides an easy way to perform phone number validati
 
 ## Interested ?
 
-Reach out at admin[at]afila.fyi
+Reach out at support[at]afila.fyi
