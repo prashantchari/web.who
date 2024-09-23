@@ -1,8 +1,6 @@
-# Who ?
-
 ## Overview
 
-Who is a phone validation by SMS service. We provide an easy way to perform phone number validations using SMS without any of the hassles involved in building such a functionality.
+Who is a service that utilizes SMS to validate phone number ownership. We provide an easy way to perform phone number validations using SMS without any of the hassles involved in building such a functionality.
 
 ## How's this different from the others ? 
 
