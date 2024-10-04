@@ -4,7 +4,7 @@ Who is a service that utilizes SMS to validate phone number ownership. We provid
 
 ## How's this different from the others ? 
 
-- No need to onboard to solutions that provide the ability to send SMS messages to users.
+- Fully managed. We hande the verification flow.
 - No need to store and track phone number / challenge codes at the service.
 - [Simple intuitive way](./Flow.md) to get a phone number validated within the context of a single request to the service.  
 
